@@ -17,6 +17,9 @@ sample-data
 ##
 ##
 
+.history/
+.idea/
+.vscode/
 
 ### Git ###
 *.orig
